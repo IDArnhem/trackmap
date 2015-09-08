@@ -259,8 +259,6 @@ GET /companypercentage/media
 GET /companypercentage/contextual
 GET /companypercentage/alexa
 
-@vecna: what does "media", "contextual" and "alexa" mean in this context?
-
     {
       "Netherlands":
       [
